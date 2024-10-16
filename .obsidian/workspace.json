@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/FUNZIONI.md",
+                "file": "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/FUNZIONI.md",
+                "file": "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/FUNZIONI.md",
+                "file": "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/FUNZIONI.md"
+                "file": "MATERIE/FLIPS/Notes/INDICE FLIPS.md"
               }
             }
           },
@@ -155,15 +155,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "736b4816c8337c1e",
   "lastOpenFiles": [
+    "MATERIE/FLIPS/Notes/FUNZIONI.md",
     "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
     "MATERIE/FLIPS/Notes/INDUZIONE.md",
     "MATERIE/FLIPS/Notes/INDUZIONE MATEMATICA.md",
-    "MATERIE/FLIPS/Notes/FUNZIONI.md",
     "MATERIE/FLIPS/Notes/Spiegazione funzione successore applicata due volte.md",
     "MATERIE/FLIPS/Notes/Pasted image 20241016124703.png",
     "MATERIE/FLIPS/Notes/Pasted image 20241016124646.png",
