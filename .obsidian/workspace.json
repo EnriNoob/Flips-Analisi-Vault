@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/FUNZIONI.md",
+                "file": "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 391.5,
+    "collapsed": true
   },
   "right": {
     "id": "4dbbb2886d2d7ef9",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/FUNZIONI.md",
+                "file": "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/FUNZIONI.md",
+                "file": "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/FUNZIONI.md"
+                "file": "MATERIE/FLIPS/Notes/INDICE FLIPS.md"
               }
             }
           },
@@ -137,14 +138,21 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "3f92fe11fcb52849",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,13 +164,15 @@
       "command-palette:Open command palette": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "736b4816c8337c1e",
   "lastOpenFiles": [
-    "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
     "MATERIE/FLIPS/Notes/FUNZIONI.md",
+    "MATERIE/FLIPS/Notes/Pasted image 20241016153541.png",
+    "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
     "MATERIE/FLIPS/Notes/INDUZIONE.md",
     "MATERIE/FLIPS/Notes/INDUZIONE MATEMATICA.md",
     "MATERIE/FLIPS/Notes/Spiegazione funzione successore applicata due volte.md",
@@ -177,7 +187,6 @@
     "MATERIE/FLIPS/Images/Pasted image 20241016100538.png",
     "MATERIE/FLIPS/Images/Pasted image 20241016100122.png",
     "MATERIE/FLIPS/Images/Pasted image 20241015223100.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241016095905.png",
     "MATERIE/FLIPS/Notes/SISTEMA DI TIPI.md",
     "TEMPLATES/Main Template.md",
     "MATERIE/FLIPS/Notes/WARM-UP.md",
