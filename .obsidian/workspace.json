@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
+                "file": "MATERIE/FLIPS/Notes/FUNZIONI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
+                "file": "MATERIE/FLIPS/Notes/FUNZIONI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
+                "file": "MATERIE/FLIPS/Notes/FUNZIONI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/INDICE FLIPS.md"
+                "file": "MATERIE/FLIPS/Notes/FUNZIONI.md"
               }
             }
           },
@@ -159,10 +159,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3cb93129f8f6c63b",
+  "active": "736b4816c8337c1e",
   "lastOpenFiles": [
-    "MATERIE/FLIPS/Notes/FUNZIONI.md",
     "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
+    "MATERIE/FLIPS/Notes/FUNZIONI.md",
     "MATERIE/FLIPS/Notes/INDUZIONE.md",
     "MATERIE/FLIPS/Notes/INDUZIONE MATEMATICA.md",
     "MATERIE/FLIPS/Notes/Spiegazione funzione successore applicata due volte.md",
