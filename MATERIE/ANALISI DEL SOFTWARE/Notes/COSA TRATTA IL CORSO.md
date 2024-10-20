@@ -1,6 +1,6 @@
 #### 07/10/2024 - 17:30
 
-#### Tags: [[OBIETTIVO CORSO]], [[SEMANTICA]], [[ANALISI]]
+#### Tags: [[OBIETTIVO CORSO]], [[SEMANTICA]], [[INDICE ANALISI SW]]
 
 Quello che studieremo in questo corso è capire se il nostro sw/programma lavora e si ==**comporta**== nel modo corretto per cui è stato pensato o sviluppato.
 

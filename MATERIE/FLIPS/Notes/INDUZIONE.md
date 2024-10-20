@@ -7,5 +7,4 @@ Per questo utilizzermo l'induzione che ha lo scopo di dimostrare oggetti più gr
 Esistono tre tipi di induzione:
 -  [[INDUZIONE MATEMATICA]]:
 - [[INDUZIONE STRUTTURALE]]:
-- INDUZIONE DI REGOLA:
-	dimostrare fatti/cose riguardo a tutti gli elementi di una relazione definita in termini di un insieme di regole di inferenza
+- [[INDUZIONE DI REGOLE]]:

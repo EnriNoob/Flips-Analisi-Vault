@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "00d2948c8856cb5e",
+        "id": "4e6b16d6d123e901",
         "type": "tabs",
         "children": [
           {
-            "id": "760a616292dad36b",
+            "id": "689b4c99c2b4a90e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/FUNZIONI.md",
-                "mode": "preview",
+                "file": "MATERIE/FLIPS/Notes/BIG-STEP(EXP).md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "BIG-STEP(EXP)"
             }
           }
         ]
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,15 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 391.5,
-    "collapsed": true
+    "width": 391.5
   },
   "right": {
     "id": "4dbbb2886d2d7ef9",
@@ -87,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/FUNZIONI.md",
+                "file": "MATERIE/FLIPS/Notes/BIG-STEP(EXP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for BIG-STEP(EXP)"
             }
           },
           {
@@ -104,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/FUNZIONI.md",
+                "file": "MATERIE/FLIPS/Notes/BIG-STEP(EXP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from BIG-STEP(EXP)"
             }
           },
           {
@@ -118,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -127,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/FUNZIONI.md"
-              }
+                "file": "MATERIE/FLIPS/Notes/BIG-STEP(EXP).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of BIG-STEP(EXP)"
             }
           },
           {
@@ -136,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -144,7 +161,29 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "dd9c75a2b8935659",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "c21da4d7981ae2a4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -169,43 +208,43 @@
   },
   "active": "3f92fe11fcb52849",
   "lastOpenFiles": [
-    "MATERIE/FLIPS/Notes/Pasted image 20241016164137.png",
-    "MATERIE/FLIPS/Notes/Pasted image 20241016163652.png",
-    "MATERIE/FLIPS/Notes/Pasted image 20241016162910.png",
-    "MATERIE/FLIPS/Notes/Pasted image 20241016162123.png",
-    "MATERIE/FLIPS/Notes/Pasted image 20241016161623.png",
+    "MATERIE/FLIPS/Notes/LINGUAGGIO-WHILE.md",
+    "MATERIE/FLIPS/Notes/SEMANTICA-WHILE.md",
+    "MATERIE/FLIPS/Notes/ASSEGNAMENTO.md",
+    "MATERIE/FLIPS/Notes/OPERAZIONI BASICHE.md",
+    "MATERIE/FLIPS/Notes/SMALL-STEP(EXP).md",
+    "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
+    "MATERIE/FLIPS/Notes/DEREFERENZIAZIONE.md",
+    "MATERIE/FLIPS/Notes/STORE.md",
+    "MATERIE/FLIPS/Notes/SISTEMA DI TIPI.md",
+    "MATERIE/FLIPS/Notes/INDUZIONE.md",
+    "MATERIE/FLIPS/Notes/INDUZIONE DI REGOLE.md",
+    "MATERIE/FLIPS/Notes/COMPUTAZIONE SEQUENZIALE.md",
+    "MATERIE/FLIPS/Notes/WARM-UP.md",
+    "MATERIE/FLIPS/Notes/COME SI LEGGONO LE REGOLE.md",
+    "MATERIE/FLIPS/Notes/BIG-STEP(EXP).md",
+    "MATERIE/FLIPS/Notes/CHOICE-SMALL-STEP.md",
+    "MATERIE/FLIPS/Images/Pasted image 20241017163219.png",
+    "MATERIE/FLIPS/Notes/INDUZIONE STRUTTURALE.md",
+    "MATERIE/FLIPS/Notes/Spiegazione funzione successore applicata due volte.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/LINGUAGGIO IMPERATIVO L.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241017161338.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/monotona.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241017152638.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241017145916.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241017145836.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/MODELLARE PROGRAMMI.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/INDICE ANALISI SW.md",
+    "MATERIE/FLIPS/Notes/INDUZIONE MATEMATICA.md",
+    "MATERIE/FLIPS/Notes/FUNZIONI.md",
+    "MATERIE/FLIPS/Images/Pasted image 20241016164137.png",
+    "MATERIE/FLIPS/Images/Pasted image 20241016163652.png",
+    "MATERIE/FLIPS/Images/Pasted image 20241016162910.png",
+    "MATERIE/FLIPS/Images/Pasted image 20241016162123.png",
+    "MATERIE/FLIPS/Images/Pasted image 20241016161623.png",
     "Untitled.canvas",
     "Excalidraw/Drawing 2024-10-13 11.12.03.excalidraw.md",
-    "MATERIE/FLIPS/Notes/FUNZIONI.md",
-    "MATERIE/FLIPS/Images/Pasted image 20241016160330.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241016160240.png",
-    "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
-    "MATERIE/FLIPS/Images/Pasted image 20241016153541.png",
-    "MATERIE/FLIPS/Notes/INDUZIONE.md",
-    "MATERIE/FLIPS/Notes/INDUZIONE MATEMATICA.md",
-    "MATERIE/FLIPS/Notes/Spiegazione funzione successore applicata due volte.md",
-    "MATERIE/FLIPS/Images/Pasted image 20241016124703.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241016124646.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241016124632.png",
     "MATERIE/FLIPS/Notes/High Order.md",
-    "MATERIE/FLIPS/Notes/INDUZIONE STRUTTURALE.md",
-    "MATERIE/FLIPS/Notes/SISTEMA DI TIPI.md",
-    "TEMPLATES/Main Template.md",
-    "MATERIE/FLIPS/Notes/WARM-UP.md",
-    "MATERIE/FLIPS/Notes/LINGUAGGIO-WHILE.md",
-    "MATERIE/FLIPS/Notes/LINGUAGGI DI PROGRAMMAZIONE.md",
-    "MATERIE/FLIPS/Notes/TIPI DI SEMANTICA.md",
-    "MATERIE/FLIPS/Notes/COSA TRATTA IL CORSO.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/ANALISI.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/PERCHE ANALISI.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/PROCESSO ANALISI.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/MODELLARE PROGRAMMI.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/LINGUAGGIO IMPERATIVO L.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/FAMIGLIE DI ANALISI.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/TESTING.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/BUG FINDING.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/CONSERVATIVE STATIC ANALYSIS.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/VERIFICATION.md",
     "Excalidraw",
     "TEMPLATES/Untitled",
     "MATERIE/FLIPS/Notes",
