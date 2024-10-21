@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/BIG-STEP(EXP).md",
+                "file": "MATERIE/ANALISI DEL SOFTWARE/Notes/CONTROL FLOW GRAPH.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BIG-STEP(EXP)"
+              "title": "CONTROL FLOW GRAPH"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 391.5,
+    "collapsed": true
   },
   "right": {
     "id": "4dbbb2886d2d7ef9",
@@ -206,8 +207,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f92fe11fcb52849",
+  "active": "689b4c99c2b4a90e",
   "lastOpenFiles": [
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241021142716.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241021142044.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241021141343.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241021141230.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241020125151.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241020124620.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241020124508.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241020124142.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/CONTROL FLOW GRAPH.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/MODELLARE PROGRAMMI.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/INDICE ANALISI SW.md",
+    "MATERIE/FLIPS/Notes/BIG-STEP(EXP).md",
     "MATERIE/FLIPS/Notes/LINGUAGGIO-WHILE.md",
     "MATERIE/FLIPS/Notes/SEMANTICA-WHILE.md",
     "MATERIE/FLIPS/Notes/ASSEGNAMENTO.md",
@@ -222,7 +235,6 @@
     "MATERIE/FLIPS/Notes/COMPUTAZIONE SEQUENZIALE.md",
     "MATERIE/FLIPS/Notes/WARM-UP.md",
     "MATERIE/FLIPS/Notes/COME SI LEGGONO LE REGOLE.md",
-    "MATERIE/FLIPS/Notes/BIG-STEP(EXP).md",
     "MATERIE/FLIPS/Notes/CHOICE-SMALL-STEP.md",
     "MATERIE/FLIPS/Images/Pasted image 20241017163219.png",
     "MATERIE/FLIPS/Notes/INDUZIONE STRUTTURALE.md",
@@ -231,20 +243,9 @@
     "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241017161338.png",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/monotona.md",
     "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241017152638.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241017145916.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241017145836.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/MODELLARE PROGRAMMI.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/INDICE ANALISI SW.md",
     "MATERIE/FLIPS/Notes/INDUZIONE MATEMATICA.md",
     "MATERIE/FLIPS/Notes/FUNZIONI.md",
-    "MATERIE/FLIPS/Images/Pasted image 20241016164137.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241016163652.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241016162910.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241016162123.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241016161623.png",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2024-10-13 11.12.03.excalidraw.md",
-    "MATERIE/FLIPS/Notes/High Order.md",
     "Excalidraw",
     "TEMPLATES/Untitled",
     "MATERIE/FLIPS/Notes",
