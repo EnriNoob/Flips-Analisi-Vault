@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4e6b16d6d123e901",
+        "id": "4404b55e534e0f28",
         "type": "tabs",
         "children": [
           {
-            "id": "689b4c99c2b4a90e",
+            "id": "2ba3cb42a5e0545e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATERIE/ANALISI DEL SOFTWARE/Notes/CONTROL FLOW GRAPH.md",
+                "file": "MATERIE/FLIPS/Notes/LAMBDA-CALCOLO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CONTROL FLOW GRAPH"
+              "title": "LAMBDA-CALCOLO"
             }
           }
         ]
@@ -173,12 +173,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "c21da4d7981ae2a4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "53c8e17b6a251c64",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -192,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,26 +217,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "689b4c99c2b4a90e",
+  "active": "3f92fe11fcb52849",
   "lastOpenFiles": [
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241021142716.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241021142044.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241021141343.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241021141230.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241020125151.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241020124620.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241020124508.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241020124142.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/CONTROL FLOW GRAPH.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/MODELLARE PROGRAMMI.md",
+    "MATERIE/FLIPS/Notes/Pasted image 20241022170025.png",
+    "MATERIE/FLIPS/Notes/Pasted image 20241022165913.png",
+    "MATERIE/FLIPS/Notes/Pasted image 20241022165741.png",
+    "MATERIE/FLIPS/Notes/Pasted image 20241022165303.png",
+    "MATERIE/FLIPS/Notes/Pasted image 20241022164448.png",
+    "MATERIE/FLIPS/Images/Pasted image 20241022164155.png",
+    "MATERIE/FLIPS/Images/Pasted image 20241022161949.png",
+    "MATERIE/FLIPS/Images/Pasted image 20241022161127.png",
+    "MATERIE/FLIPS/Images/Pasted image 20241022155547.png",
+    "MATERIE/FLIPS/Images/Pasted image 20241022124707.png",
+    "MATERIE/FLIPS/Images/Pasted image 20241022122812.png",
+    "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
+    "MATERIE/FLIPS/Notes/LAMBDA-CALCOLO.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/INDICE ANALISI SW.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/CONTROL FLOW GRAPH.md",
+    "MATERIE/FLIPS/Notes/FUNZIONI.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/MODELLARE PROGRAMMI.md",
     "MATERIE/FLIPS/Notes/BIG-STEP(EXP).md",
     "MATERIE/FLIPS/Notes/LINGUAGGIO-WHILE.md",
     "MATERIE/FLIPS/Notes/SEMANTICA-WHILE.md",
     "MATERIE/FLIPS/Notes/ASSEGNAMENTO.md",
     "MATERIE/FLIPS/Notes/OPERAZIONI BASICHE.md",
     "MATERIE/FLIPS/Notes/SMALL-STEP(EXP).md",
-    "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
     "MATERIE/FLIPS/Notes/DEREFERENZIAZIONE.md",
     "MATERIE/FLIPS/Notes/STORE.md",
     "MATERIE/FLIPS/Notes/SISTEMA DI TIPI.md",
@@ -236,15 +251,10 @@
     "MATERIE/FLIPS/Notes/WARM-UP.md",
     "MATERIE/FLIPS/Notes/COME SI LEGGONO LE REGOLE.md",
     "MATERIE/FLIPS/Notes/CHOICE-SMALL-STEP.md",
-    "MATERIE/FLIPS/Images/Pasted image 20241017163219.png",
     "MATERIE/FLIPS/Notes/INDUZIONE STRUTTURALE.md",
     "MATERIE/FLIPS/Notes/Spiegazione funzione successore applicata due volte.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/LINGUAGGIO IMPERATIVO L.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241017161338.png",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/monotona.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241017152638.png",
-    "MATERIE/FLIPS/Notes/INDUZIONE MATEMATICA.md",
-    "MATERIE/FLIPS/Notes/FUNZIONI.md",
     "Untitled.canvas",
     "Excalidraw",
     "TEMPLATES/Untitled",

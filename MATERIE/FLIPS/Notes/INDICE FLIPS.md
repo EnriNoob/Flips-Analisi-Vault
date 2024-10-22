@@ -6,3 +6,4 @@
 - [[SISTEMA DI TIPI]]
 - [[INDUZIONE]]
 - [[FUNZIONI]]
+- [[LAMBDA-CALCOLO]]

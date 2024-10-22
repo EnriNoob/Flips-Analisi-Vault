@@ -25,5 +25,12 @@ Con l'alpha conversion possiamo permetterci di fare
 Formalmente è una funzione che presa un'espressione ne tira fuori le sue variabili libere
 ![[Pasted image 20241016163652.png]]
 Il problema nasce più che altro quando ai parametri formali passiamo delle variabili (quindi con nome) al posto delle costanti. Esempio di sostituzione
-![[Pasted image 20241016164137.png]]
+![[Pasted image 20241022112646.png]]
+
+La sostituzione è definita per induzione strutturale sugli elementi del linguaggio while
+
+![[Pasted image 20241022113639.png]]
+![[Pasted image 20241022112924.png]]
+
+La sostituzione può essere generalizzata per rimpiazzare più variabili simultaneamente. C'è differenza se provassimo fare una sostituzione passo passo perchè potrebbe causare problemi con le ambiguità dei nomi delle variabili
 #### :LiExternalLink: REFERENZE:
