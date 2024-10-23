@@ -11,15 +11,12 @@
             "id": "2ba3cb42a5e0545e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "MATERIE/ANALISI DEL SOFTWARE/Notes/INDICE ANALISI SW.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023122821.png"
               },
-              "icon": "lucide-file",
-              "title": "INDICE ANALISI SW"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241023122821"
             }
           }
         ]
@@ -78,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5,
-    "collapsed": true
+    "width": 391.5
   },
   "right": {
     "id": "4dbbb2886d2d7ef9",
@@ -141,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATERIE/ANALISI DEL SOFTWARE/Notes/INDICE ANALISI SW.md"
+                "file": "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023122821.png"
               },
               "icon": "lucide-list",
-              "title": "Outline of INDICE ANALISI SW"
+              "title": "Outline of Pasted image 20241023122821"
             }
           },
           {
@@ -227,21 +223,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f92fe11fcb52849",
+  "active": "3cb93129f8f6c63b",
   "lastOpenFiles": [
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/APRROSSIMARE LE COMPUTAZIONI.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/INDICE ANALISI SW.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/APRROSSIMARE LE COMPUTAZIONI.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/APPROSSIMARE I PROGRAMMI.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023164824.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023164156.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023162843.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023122846.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023122821.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023115610.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023164824.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023164156.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023162843.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023122846.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023122821.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023115610.png",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023115538.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023113602.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023113549.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023113520.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023113602.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023113549.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023113520.png",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/APPROSSIMARE I DATI.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/MODELLARE PROGRAMMI.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/CONTROL FLOW GRAPH.md",
