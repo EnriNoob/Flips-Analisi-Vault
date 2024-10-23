@@ -57,11 +57,20 @@ Adesso se provassimo a valutarla con cbv e cbn notiamo che questi due approcci r
 
 ![[Pasted image 20241022164155.png]]
 
-#### Semantica CBV small step
+#### Semantica CBV small step semantics
 
 ![[Pasted image 20241022165913.png]]
-#### Semantica CBN small step
+#### Semantica CBN small step semantics
 
 ![[Pasted image 20241022170025.png]]
 
+#### Type System
+
+Il type system ci permette di capire se le funzioni sono fatte bene. Per il $\lambda$ calcolo il nostro ambiente in cui prima avevamo le locazioni, adesso avremo anche il tipo dei parametri formali
+![[Pasted image 20241023180312.png]]
+
+Sono separati perché non possiamo ancora astrarre i tipi locazioni.
+
+Il tipaggio, essendo guidato dalla sintassi, avrà per ogni costrutto del linguaggio ($\lambda$) una regola per determinare bene il tipo della funzione
+![[Pasted image 20241023181020.png]]
 #### :LiExternalLink: REFERENZE:https://www.youtube.com/watch?v=bm_s3VuDgAU, https://www.youtube.com/watch?v=eis11j_iGMs&t=3s, https://it.wikipedia.org/wiki/Lambda_calcolo 

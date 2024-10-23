@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4404b55e534e0f28",
+        "id": "f8a2545bd10dbb86",
         "type": "tabs",
         "children": [
           {
-            "id": "2ba3cb42a5e0545e",
+            "id": "e74d061c0c0220fb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023122821.png"
+                "file": "MATERIE/FLIPS/Notes/SISTEMA DI TIPI.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241023122821"
+              "icon": "lucide-file",
+              "title": "SISTEMA DI TIPI"
             }
           }
         ]
@@ -75,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 391.5,
+    "collapsed": true
   },
   "right": {
     "id": "4dbbb2886d2d7ef9",
@@ -137,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023122821.png"
+                "file": "MATERIE/FLIPS/Notes/SISTEMA DI TIPI.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20241023122821"
+              "title": "Outline of SISTEMA DI TIPI"
             }
           },
           {
@@ -223,44 +227,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cb93129f8f6c63b",
+  "active": "3f92fe11fcb52849",
   "lastOpenFiles": [
+    "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
+    "MATERIE/FLIPS/Notes/WARM-UP.md",
+    "MATERIE/FLIPS/Notes/LINGUAGGIO-WHILE.md",
+    "MATERIE/FLIPS/Notes/DESIGN-WHILE.md",
+    "MATERIE/FLIPS/Notes/PROPRIETA-WHILE.md",
+    "MATERIE/FLIPS/Notes/SEMANTICA-WHILE.md",
+    "MATERIE/FLIPS/Notes/DEREFERENZIAZIONE.md",
+    "MATERIE/FLIPS/Notes/OPERAZIONI BASICHE.md",
+    "MATERIE/FLIPS/Notes/ASSEGNAMENTO.md",
+    "MATERIE/FLIPS/Notes/LAMBDA-CALCOLO.md",
+    "MATERIE/FLIPS/Notes/SISTEMA DI TIPI.md",
+    "MATERIE/FLIPS/Images/Pasted image 20241023181020.png",
+    "MATERIE/FLIPS/Images/Pasted image 20241023180312.png",
+    "README.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/APPROSSIMARE I PROGRAMMI.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023122821.png",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/INDICE ANALISI SW.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/APRROSSIMARE LE COMPUTAZIONI.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/APPROSSIMARE I PROGRAMMI.md",
     "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023164824.png",
     "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023164156.png",
     "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023162843.png",
     "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023122846.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023122821.png",
     "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023115610.png",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023115538.png",
     "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023113602.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023113549.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241023113520.png",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/APPROSSIMARE I DATI.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/MODELLARE PROGRAMMI.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/CONTROL FLOW GRAPH.md",
-    "MATERIE/FLIPS/Notes/LAMBDA-CALCOLO.md",
-    "README.md",
-    "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
     "MATERIE/FLIPS/Notes/FUNZIONI.md",
     "MATERIE/FLIPS/Notes/BIG-STEP(EXP).md",
-    "MATERIE/FLIPS/Notes/LINGUAGGIO-WHILE.md",
-    "MATERIE/FLIPS/Notes/SEMANTICA-WHILE.md",
-    "MATERIE/FLIPS/Notes/ASSEGNAMENTO.md",
-    "MATERIE/FLIPS/Notes/OPERAZIONI BASICHE.md",
     "MATERIE/FLIPS/Notes/SMALL-STEP(EXP).md",
-    "MATERIE/FLIPS/Notes/DEREFERENZIAZIONE.md",
     "MATERIE/FLIPS/Notes/STORE.md",
-    "MATERIE/FLIPS/Notes/SISTEMA DI TIPI.md",
     "MATERIE/FLIPS/Notes/INDUZIONE.md",
     "MATERIE/FLIPS/Notes/INDUZIONE DI REGOLE.md",
     "MATERIE/FLIPS/Notes/COMPUTAZIONE SEQUENZIALE.md",
-    "MATERIE/FLIPS/Notes/WARM-UP.md",
     "MATERIE/FLIPS/Notes/COME SI LEGGONO LE REGOLE.md",
-    "MATERIE/FLIPS/Notes/CHOICE-SMALL-STEP.md",
-    "MATERIE/FLIPS/Notes/INDUZIONE STRUTTURALE.md",
     "Untitled.canvas",
     "Excalidraw",
     "TEMPLATES/Untitled",
