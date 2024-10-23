@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/LAMBDA-CALCOLO.md",
+                "file": "MATERIE/ANALISI DEL SOFTWARE/Notes/INDICE ANALISI SW.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LAMBDA-CALCOLO"
+              "title": "INDICE ANALISI SW"
             }
           }
         ]
@@ -141,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/BIG-STEP(EXP).md"
+                "file": "MATERIE/ANALISI DEL SOFTWARE/Notes/INDICE ANALISI SW.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of BIG-STEP(EXP)"
+              "title": "Outline of INDICE ANALISI SW"
             }
           },
           {
@@ -193,6 +193,16 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e1765854c2404fc9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
@@ -219,23 +229,26 @@
   },
   "active": "3f92fe11fcb52849",
   "lastOpenFiles": [
-    "MATERIE/FLIPS/Notes/Pasted image 20241022170025.png",
-    "MATERIE/FLIPS/Notes/Pasted image 20241022165913.png",
-    "MATERIE/FLIPS/Notes/Pasted image 20241022165741.png",
-    "MATERIE/FLIPS/Notes/Pasted image 20241022165303.png",
-    "MATERIE/FLIPS/Notes/Pasted image 20241022164448.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241022164155.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241022161949.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241022161127.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241022155547.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241022124707.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241022122812.png",
-    "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
-    "MATERIE/FLIPS/Notes/LAMBDA-CALCOLO.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/APRROSSIMARE LE COMPUTAZIONI.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/INDICE ANALISI SW.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/CONTROL FLOW GRAPH.md",
-    "MATERIE/FLIPS/Notes/FUNZIONI.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/APPROSSIMARE I PROGRAMMI.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023164824.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023164156.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023162843.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023122846.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023122821.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023115610.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023115538.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023113602.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023113549.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241023113520.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/APPROSSIMARE I DATI.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/MODELLARE PROGRAMMI.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/CONTROL FLOW GRAPH.md",
+    "MATERIE/FLIPS/Notes/LAMBDA-CALCOLO.md",
+    "README.md",
+    "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
+    "MATERIE/FLIPS/Notes/FUNZIONI.md",
     "MATERIE/FLIPS/Notes/BIG-STEP(EXP).md",
     "MATERIE/FLIPS/Notes/LINGUAGGIO-WHILE.md",
     "MATERIE/FLIPS/Notes/SEMANTICA-WHILE.md",
@@ -252,9 +265,6 @@
     "MATERIE/FLIPS/Notes/COME SI LEGGONO LE REGOLE.md",
     "MATERIE/FLIPS/Notes/CHOICE-SMALL-STEP.md",
     "MATERIE/FLIPS/Notes/INDUZIONE STRUTTURALE.md",
-    "MATERIE/FLIPS/Notes/Spiegazione funzione successore applicata due volte.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/LINGUAGGIO IMPERATIVO L.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/monotona.md",
     "Untitled.canvas",
     "Excalidraw",
     "TEMPLATES/Untitled",
