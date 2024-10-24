@@ -72,5 +72,24 @@ Il type system ci permette di capire se le funzioni sono fatte bene. Per il $\la
 Sono separati perché non possiamo ancora astrarre i tipi locazioni.
 
 Il tipaggio, essendo guidato dalla sintassi, avrà per ogni costrutto del linguaggio ($\lambda$) una regola per determinare bene il tipo della funzione
+
 ![[Pasted image 20241023181020.png]]
+
+#### Proprietà del typing
+
+Le proprietà di typing per questo linguaggio ha solo senso se non ci sono variabili libere
+
+![[Pasted image 20241024141744.png]]
+
+Spiegazione del lemma di sostituzione
+
+![[Pasted image 20241024142351.png]]
+
+#### Normalization
+
+La Normalization può accadere o non accadere, in pratica dice che preso un programma tipato e se il programma è chiuso (no variabili libere), allora c'è un valore v ed uno stato s' in cui
+$$
+<e,s> \Rightarrow ^{*} <v,s> 
+$$ Questo nel [[LINGUAGGIO-WHILE]] non è possibile, se si aggiungono questi tipi semplici al $\lambda$ calcolo, allora quest'ultimo perde il touring-complete (perchè con i tipi c'è solo convergenza)
+
 #### :LiExternalLink: REFERENZE:https://www.youtube.com/watch?v=bm_s3VuDgAU, https://www.youtube.com/watch?v=eis11j_iGMs&t=3s, https://it.wikipedia.org/wiki/Lambda_calcolo 
