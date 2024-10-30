@@ -34,4 +34,38 @@ La costruzione dell'analisi è composta da
 Quello che andremo a vedere è capire come l'informazione di interesse viene trasformata dentro un blocco
 
 ![[Pasted image 20241029100337.png]]
+
+#### Formal framework
+
+Grazie a questo strumento risuciamo a formalizzare l'analisi statica attraverso la semantica, che in questo caso riesce a guardare dentro la memoria
+
+E un contesto di costruzione dell'analisi basato sul calcolo semantico. Ci dice come altera le info man mano che si raccolgono
+
+Ci sono due ingredienti nel Formal framework:
+- $D$ formalizziamo l'informazione astratta che vogliamo analizzare
+- $F$ costruire la semantica induttivamente sulla sintassi che trasforma l'informazione osservata (abstract edge effect)
+
+Dal programma costruiremo un sistema di disequazioni (una per ogni punto di programma) in $N$ incognite cercando la migliore soluzione possibile.
+
+Da questo raggiungiamo il nostro obiettivo cioè la soluzione del sistema che in generale approssima la soluzione ==**MOP**== (Merge over all path), ovvero combinare tutte le possibili soluzioni su tutti i possibili cammini
+
+In pratica possiamo calcolare l' ==**MFP**== (Soluzione del sistema) che approssima MOP e se coincidono abbiamo ridotto al minimo l'errore
+
+#### Formal framework su Available Expression
+
+Dobbiamo caratterizzare l'insieme di tutte le espressioni che sono disponibili in un punto di programma all'interno di una variabile
+- Insieme $Ass$ $x \leftarrow e$  $x \notin Var(e)$ 
+- Dominio astratto $P(Ass), A \subseteq Ass$  
+
+Poi dobbiamo caratterizzare la funzione di trasferimento, ovvero come l'informazione viene trasformata. E una semantica astratta definito in modo induttivo sul linguaggio del CFG
+
+![[Pasted image 20241030090718.png]]
+
+#### La soluzione
+
+Una espressione è definitivamente disponibile in $v$ se è disponibile in ogni cammino che va dall'entry point del CFG a $v$
+
+![[Pasted image 20241030092008.png]]
+
+
 #### :LiExternalLink: REFERENZE:
