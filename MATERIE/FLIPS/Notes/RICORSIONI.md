@@ -19,7 +19,7 @@ Esempio con $\lambda$ calcolo
 
 ![[Pasted image 20241024164334.png]]
 
-Alan turing ci ha già definito due termini che esprimono la ricorsione in modo formale:
+Alan turing ci ha già definito due termini che esprimono la ricorsione in modo formale con approccio CBN:
 
 ![[Pasted image 20241024164603.png]]
 
@@ -31,5 +31,28 @@ Alan turing ci ha già definito due termini che esprimono la ricorsione in modo 
 piccola dimostrazione punto fisso
 ![[Pasted image 20241024230047.png]]
 
+Se M è un funzionale, allora la si può scrivere in modo più precisa, si può scrivere come una funzione che presa in input una funzione ritorna un'altra funzione. Siamo sempre in modalità CBN
+
+![[Pasted image 20241030100855.png]]
+
+esempio 
+
+![[Pasted image 20241030102343.png]]
+
+Questo meccanismo non funziona con l'approccio CBV
+
+![[Pasted image 20241030103810.png]]
+
+La soluzione è quello di portare il punto fisso di M come output di una $\lambda$ astrazione
+
+![[Pasted image 20241030105834.png]]
+
+#### Estensione del linguaggio
+
+![[Pasted image 20241030110454.png]]
+
+Ora avendo approdato che l'operatore FIX funziona possiamo anche eliminare il while volendo (perchè intrinsicamente è ricorsiva)
+
+![[Pasted image 20241030111617.png]]
 
 #### :LiExternalLink: REFERENZE: https://www.youtube.com/watch?v=9T8A89jgeTI

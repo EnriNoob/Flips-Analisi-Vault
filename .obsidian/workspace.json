@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8cca8ee59eda9456",
+        "id": "f1799d61fc40dff9",
         "type": "tabs",
         "children": [
           {
-            "id": "57047fd418163e65",
+            "id": "cc07cf0118e15ba1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATERIE/ANALISI DEL SOFTWARE/Notes/ANALISI STATICA DATAFLOW.md",
+                "file": "MATERIE/FLIPS/Notes/RICORSIONI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ANALISI STATICA DATAFLOW"
+              "title": "RICORSIONI"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 391.5,
+    "collapsed": true
   },
   "right": {
     "id": "4dbbb2886d2d7ef9",
@@ -231,7 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,22 +247,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cb93129f8f6c63b",
+  "active": "cc07cf0118e15ba1",
   "lastOpenFiles": [
+    "MATERIE/FLIPS/Notes/Pasted image 20241030111617.png",
+    "MATERIE/FLIPS/Notes/Pasted image 20241030110454.png",
+    "MATERIE/FLIPS/Notes/Pasted image 20241030105834.png",
+    "MATERIE/FLIPS/Notes/Pasted image 20241030103810.png",
+    "MATERIE/FLIPS/Notes/Pasted image 20241030103747.png",
+    "MATERIE/FLIPS/Notes/Pasted image 20241030102343.png",
+    "MATERIE/FLIPS/Images/Pasted image 20241030100855.png",
+    "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
+    "MATERIE/FLIPS/Notes/DATA AND MUTABLE STORE.md",
+    "README.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Available Expression.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/ANALISI STATICA DATAFLOW.md",
     "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241030092008.png",
     "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241030090718.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/Available Expression.md",
     "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241029155927.png",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241029155837.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241029155822.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241029153626.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241029153457.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241029113348.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241029113211.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241029113103.png",
-    "MATERIE/ANALISI DEL SOFTWARE/Images/Pasted image 20241029112559.png",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241029105245.png.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/ANALISI STATICA DATAFLOW.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/Reaching definition.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/Liveness.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/Copy propagation.md",
@@ -270,7 +274,6 @@
     "MATERIE/ANALISI DEL SOFTWARE/Notes/COSA SI ANALIZZA.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/APPROSSIMARE I PROGRAMMI.md",
     "MATERIE/FLIPS/Notes/LAMBDA-CALCOLO.md",
-    "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
     "MATERIE/FLIPS/Notes/RICORSIONI.md",
     "MATERIE/FLIPS/Notes/DICHIARAZIONI LOCALI.md",
     "MATERIE/FLIPS/Notes/WARM-UP.md",
@@ -282,8 +285,6 @@
     "MATERIE/FLIPS/Notes/ASSEGNAMENTO.md",
     "MATERIE/FLIPS/Notes/DEREFERENZIAZIONE.md",
     "MATERIE/FLIPS/Notes/OPERAZIONI BASICHE.md",
-    "MATERIE/FLIPS/Notes/BIG-STEP(EXP).md",
-    "MATERIE/FLIPS/Notes/CHOICE-SMALL-STEP.md",
     "Untitled.canvas",
     "Excalidraw",
     "TEMPLATES/Untitled",
