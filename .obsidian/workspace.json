@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATERIE/FLIPS/Notes/DATA AND MUTABLE STORE.md",
+                "file": "MATERIE/ANALISI DEL SOFTWARE/Notes/ANALISI STATICA DATAFLOW.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DATA AND MUTABLE STORE"
+              "title": "ANALISI STATICA DATAFLOW"
             }
           }
         ]
@@ -233,12 +233,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "d1ee12e41b7273a5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "51c18b763a3e66c0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d6ac27422e4eab0f",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -269,28 +289,29 @@
   },
   "active": "e09343f4ea5625df",
   "lastOpenFiles": [
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241105122153.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241105121643.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241105115447.png",
+    "TEMPLATES/List element with sub paragraph.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/ANALISI STATICA DATAFLOW.md",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241105115014.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241105114511.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241105114234.png",
+    "MATERIE/ANALISI DEL SOFTWARE/Notes/INDICE ANALISI SW.md",
+    "MATERIE/FLIPS/Notes/DATA AND MUTABLE STORE.md",
+    "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
     "MATERIE/FLIPS/Images/Pasted image 20241031172445.png",
     "MATERIE/FLIPS/Images/Pasted image 20241031172210.png",
     "MATERIE/FLIPS/Images/Pasted image 20241031171002.png",
     "MATERIE/FLIPS/Images/Pasted image 20241031170440.png",
     "MATERIE/FLIPS/Images/Pasted image 20241031165408.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241031165328.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241031164427.png",
-    "MATERIE/FLIPS/Notes/DATA AND MUTABLE STORE.md",
-    "MATERIE/FLIPS/Images/Pasted image 20241031163951.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241031161910.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241031160931.png",
-    "MATERIE/FLIPS/Images/Pasted image 20241031160630.png",
-    "MATERIE/FLIPS/Notes/INDICE FLIPS.md",
     "MATERIE/FLIPS/Notes/RICORSIONI.md",
     "README.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/Available Expression.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/ANALISI STATICA DATAFLOW.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/Pasted image 20241029105245.png.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/Reaching definition.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/Liveness.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/Copy propagation.md",
-    "MATERIE/ANALISI DEL SOFTWARE/Notes/INDICE ANALISI SW.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/APRROSSIMARE LE COMPUTAZIONI.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/COSA SI ANALIZZA.md",
     "MATERIE/ANALISI DEL SOFTWARE/Notes/APPROSSIMARE I PROGRAMMI.md",
@@ -304,7 +325,6 @@
     "MATERIE/FLIPS/Notes/CONDIZIONALE.md",
     "MATERIE/FLIPS/Notes/ASSEGNAMENTO.md",
     "MATERIE/FLIPS/Notes/DEREFERENZIAZIONE.md",
-    "MATERIE/FLIPS/Notes/OPERAZIONI BASICHE.md",
     "Untitled.canvas",
     "Excalidraw",
     "TEMPLATES/Untitled",

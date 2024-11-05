@@ -67,5 +67,41 @@ Una espressione è definitivamente disponibile in $v$ se è disponibile in ogni 
 
 ![[Pasted image 20241030092008.png]]
 
+#### Perdita di precisione
 
+Con questo si perde precisione perchè appunto prendiamo tutti i cammini del CFG che contengono i cammini eseguibili in comune (sottoinsieme dei cammini del CFG). Ad esempio
+
+![[Pasted image 20241105114234.png]]
+
+Inoltre non si guarda il valore delle variabili 
+
+![[Pasted image 20241105114511.png]]
+#### Caratteristiche dell'analisi
+
+In questa analisi vogliamo che
+
+- __Termini__
+	viene garantita dalla monotonia del trasformatore semantico che calcola su domini finiti (ACC ovvero ascending chain condition che sono domini infiniti ma con catene ascendenti non infinite)
+	
+	![[Pasted image 20241105115014.png]]
+- __Sia corretta__
+	ovvero che contiene l'informazione precisa e che viene garantita per costruzione (fix point). Si basa sul legame sintassi e semantica
+- __Precisa__
+	si cerca come obiettivo l'ottimalità, si abbassa la precisione perchè si considerano cammini non possibili ma che sono necessariamente considerati
+	
+	![[Pasted image 20241105115447.png]]
+
+#### Costruzione dell'analisi
+
+Come già descritto, costuiremo la mop attraverso il CFG creando un sistema di disequazioni avendo una disequazione per ogni arco più una iniziale.
+
+Le incognite presenti nel sistema di disequazioni sono esattamente il risultato dell'analisi per ogni punto di programma 
+
+![[Pasted image 20241105121643.png]]
+
+esempio dato il seguente CFG a sinistra, inizializziamo le disequazioni
+
+![[Pasted image 20241105122153.png]]
+
+Ora calcoliamo le disequazioni con cinque incognite
 #### :LiExternalLink: REFERENZE:
