@@ -104,4 +104,10 @@ esempio dato il seguente CFG a sinistra, inizializziamo le disequazioni
 ![[Pasted image 20241105122153.png]]
 
 Ora calcoliamo le disequazioni con cinque incognite
+
+![[Pasted image 20241112091339.png]]
+
+Si può effettuare lo stesso calcolo con round robin che calcola in base alla colonna corrente e non guardando i valori nella colonna precedente
+
+![[Pasted image 20241112091156.png]]
 #### :LiExternalLink: REFERENZE:
