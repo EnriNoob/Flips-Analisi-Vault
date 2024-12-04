@@ -2,5 +2,6 @@
   "accentColor": "#ff0000",
   "cssTheme": "AnuPpuccin",
   "baseFontSize": 16,
-  "translucency": false
+  "translucency": false,
+  "theme": "moonstone"
 }

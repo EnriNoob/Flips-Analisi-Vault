@@ -8,6 +8,6 @@ $$
 \implies p \text{ soddisfa } \pi
 
 $$
-quindi se accettiamo che quando il programma p soddisfa la mia proprietà anche nella realtà, vuol dire che stiamo approssimando per difetto ovvero stiamo parlando di inaccuratezza pessimistica. Dove non posso dare una risposta precisa si suppone che la proprietà non valga (ma la proprietà potrebbe valere!)
+quindi se accettiamo che quando il programma p soddisfa la mia proprietà anche nella realtà, vuol dire che stiamo approssimando per difetto ovvero stiamo parlando di inaccuratezza pessimistica. Dove non posso dare una risposta precisa, si suppone che la proprietà non valga (ma la proprietà potrebbe valere!)
 ![[Pasted image 20241008114534.png]]
 Quindi ho una risposta certa nella soddisfazione della proprietà, ma non posso dare con certezza se p soddisfa $\pi$ se l'analisi di p è falsa (cioè se p è falsa l'analizzatore può dare come risposta sia true che false)
