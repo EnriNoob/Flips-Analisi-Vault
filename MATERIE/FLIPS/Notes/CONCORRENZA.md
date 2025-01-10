@@ -101,4 +101,19 @@ E un costrutto per evitare race condition, quindi garantisce la mutua esclusivit
 Il non determinismo è utile per rappresentare situazioni di evoluzioni di un programma in cui non ho tutte le informazioni per decidere in modo deterministico
 
 ![[Pasted image 20241127175746.png]]
+
+
+---
+#### Comportamenti persistenti
+
+Lo possiamo fare attraverso il punto fisso
+
+![[Pasted image 20241211161505.png]]
+![[Pasted image 20241211162808.png]]
+
+---
+#### Data race e regioni critiche
+
+![[Pasted image 20241211162939.png]]
+![[Pasted image 20241211163016.png]]
 #### :LiExternalLink: REFERENZE:
