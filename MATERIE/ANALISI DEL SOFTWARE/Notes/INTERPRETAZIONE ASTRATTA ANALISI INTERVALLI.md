@@ -1,9 +1,10 @@
 #### :LiCalendarClock:  11/01/2025 - 15:32
 
-Analizzare gli intervalli porta ad esaminare un dominio infinito e non acc
+Analizzare gli intervalli porta ad esaminare un dominio infinito e non acc (catene ascendenti infinite)
 
 ![[Pasted image 20250111154850.png]]
 
+Qualsiasi elemento x all'interno ha una quantità infinita di altri elementi(intervalli) che sono più grandi di x, siccome con il punto fisso collezioneremo oggetti, il punto fisso può divergere appunto perché le catene sono ascendenti e infinite
 
 ---
 #### Analisi intervalli
@@ -11,6 +12,8 @@ Analizzare gli intervalli porta ad esaminare un dominio infinito e non acc
 Piuttosto che ai valori costanti delle variabili, saremmo più interessati a determinare il range dei valori che può assumere una variabile in un certo punto di programma durante l'esecuzione. L'approssimazione sui intervalli riguarda il fatto che verranno riempiti dei buchi nell'intervallo dei valori che una variabile può acquisire nel concreto, questo li porta a essere convessi
 
 ![[Pasted image 20250111155526.png]]
+
+quindi se x ha un range di valori nel concreto di (1,5,20,35), l'intervallo astratto considera anche i buchi, perdendo precisione aggiungendo rumore tra il valore minimo e massimo della variabile.
 
 ---
 #### Dominio astratto intervalli
@@ -42,26 +45,28 @@ Quindi esiste la miglior approssimazione per un insieme, in questo il più picco
 ---
 #### Operazioni del reticolo (dominio astratto)
 
-due intervalli sono in relazione tra di loro quando un intervallo è contenuto dentro l'altro
+due intervalli sono in relazione tra di loro quando un intervallo è contenuto dentro l'altro, ovvero quando gli elementi dell'intervallo contenuto sono anche elementi di quello che lo contiene
 
 ![[Pasted image 20250111164553.png]]
 
-Il LUB è l'intervallo più piccolo che contiene entrambi
+Il LUB è l'intervallo più piccolo che contiene gli intervalli che stiamo combinando/relazionando, ovviamente sarà un intervallo più grande e più generico (unendo tra i due intervalli il lower bound più piccolo e l'upper bound più grande)
 
 ![[Pasted image 20250111165016.png]]
 
-Il GLB è l'intervallo più grande contenuto in entrambi
+Il GLB è l'intervallo più grande contenuto in entrambi (quasi come l'intersezione) prendendo il massimo tra i lower bound e il minimo degli upper bound tra i due intervalli
 
  ![[Pasted image 20250111165541.png]]
 
 
 ---
-#### Trasferimento delle operazioni sul dominio
+#### Trasferimento delle operazioni sul dominio astratto
+
+operazioni tra i valori
 
 - __Somma__
 	![[Pasted image 20250111170004.png]]
 - __Negazione__
-	significa negare gli estremi, ovvero invertirli
+	significa negare gli estremi, ovvero invertirli (per mantenere il fatto che è un intervallo)
 	![[Pasted image 20250111170133.png]]
 - __Confronto__
 	![[Pasted image 20250111171828.png]]
@@ -84,6 +89,7 @@ l'ideale è la soluzione mop
 ---
 #### Semantica degli intervalli 
 
+abstract edge effect (semantica astratta sul CFG)
 ![[Pasted image 20250111174947.png]]
 
 Questa semantica non è distributiva, quindi non possiamo calcolare la MOP come soluzione MFP (sistema di disequazioni)

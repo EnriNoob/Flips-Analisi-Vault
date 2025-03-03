@@ -72,5 +72,4 @@ come si vede dall'esempio il risultato tra MFP e MOP sono diversi, con la MFP ch
 
 ![[Pasted image 20250110101519.png]]
 
-x
 #### :LiExternalLink: REFERENZE:

@@ -31,7 +31,7 @@ Quindi esistono $\pi_1, \pi_2, k$ (primi due cammini e l'ultimo arco) in cui $k$
 
 ![[Pasted image 20241126162700.png]]
 
-#### Processo ananlisi
+#### Processo analisi
 
 Dobbiamo capire come collezionare l'informazione e come il blocco la modifica
 

@@ -1,1 +1,1 @@
-Appunti obsidian di flips e analisi del software
+[ ] Appunti obsidian di flips e analisi del software
